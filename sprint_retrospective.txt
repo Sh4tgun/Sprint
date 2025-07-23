@@ -1,0 +1,20 @@
+Sprint Retrospective
+
+ O que deu certo:
+- As branches foram utilizadas para organizar as funcionalidades separadamente (`index` e `Contato`);
+- A estilização do index.html e criação da página Contato foram feitas conforme as histórias do usuário;
+- A correção dos erros no Git foi feita com sucesso, garantindo um histórico limpo.
+
+ O que não deu certo:
+- No commit da branch Contato, o arquivo index.html foi adicionado por engano, o que levou à necessidade de um reset e reestruturação do commit;
+- A branch Contato foi criada sem garantir que o conteúdo estava atualizado e isolado corretamente;
+- Os documentos sprint_backlog e sprint_retrospective foram esquecidos inicialmente, exigindo novo envio posterior.
+
+ Sugestões de melhoria:
+- Sempre utilizar `git status` antes de commitar para confirmar os arquivos que estão sendo adicionados;
+- Confirmar que está na branch correta antes de fazer alterações ou commits;
+- Criar os documentos obrigatórios da sprint (como o backlog e a retrospectiva) no início do processo para evitar esquecimento;
+- Utilizar comandos como `git log --oneline` e `git diff` com mais frequência para revisar antes de enviar.
+
+Conclusão:
+Apesar dos contratempos com versionamento e estrutura de branch's, a equipe conseguiu corrigir os erros com boa comunicação e domínio dos comandos Git. A entrega foi concluída com as funcionalidades principais implementadas com sucesso.

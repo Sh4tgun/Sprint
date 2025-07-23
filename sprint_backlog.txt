@@ -1,0 +1,16 @@
+Sprint Backlog
+
+História de Usuário 1:
+Como cliente da empresa e usuário do portal, eu quero, na página index, ver a fonte com os nomes dos veículos na cor azul para me proporcionar uma melhor experiência de usuário.
+Tarefa: Alterar estilo da fonte dos nomes dos veículos no index.html.
+Responsável: Caio
+Esforço estimado: 3 pontos
+
+História de Usuário 3:
+Como cliente da empresa e usuário do portal, eu quero, na página contato, que os nomes dos links para as outras páginas sejam mais detalhados para facilitar o meu entendimento e a minha navegação no portal.
+Tarefa: Criar arquivo Contato.html com navegação mais clara.
+Responsável: Caio
+Esforço estimado: 2 pontos
+
+Observações:
+- As histórias 2 e 4 foram deixadas para futuras sprints.
